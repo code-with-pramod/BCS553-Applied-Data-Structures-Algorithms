@@ -3,7 +3,7 @@
  * Roll No: 2410303342
  * Student ID: BCS2024299
  * Email: kashyappramod19840@gmail.com
- * GitHub: akhilonix
+ * GitHub: code-with-pramod
  * Course: BCS553 - Applied Data Structures & Algorithms Lab
  * Assignment: 4
  * Task: 1

@@ -7,7 +7,7 @@
 - **Roll No:** 2410303342
 - **Student ID:** BCS2024299
 - **Email:** kashyappramod19840@gmail.com
-- **GitHub:** [code-with-pramod](https://github.com/akhilonix)
+- **GitHub:** [code-with-pramod](https://github.com/code-with-pramod)
 
 ## Contents
 This repository contains all 15 lab assignments (46 Java task programs) based on the supplied BCS553 assignment sheet. Each task folder contains:
